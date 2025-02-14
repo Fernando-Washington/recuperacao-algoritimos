@@ -1,6 +1,3 @@
-# recuperacao-algoritimos
-Prova de recuperação de algoritimos
-
 # Avaliação de Recuperação
 
 Este repositório contém **4 exercícios** de programação em Python, totalizando **10 pontos**. A pontuação dos exercícios está distribuída da seguinte forma:
